@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/adetoadeto/Sunnyside-agency-landing-page)
+- Live Site URL: (https://adetoadeto.github.io/Sunnyside-agency-landing-page/)
 
 ## My process
 
